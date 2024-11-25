@@ -121,6 +121,6 @@ document_outline: |
   Information about PSA inhouse system
 document:
   repo: https://github.com/kahlai/psa_demo.git
-  commit: 5f7158a5ce83c4ff493bfe341fe31ecad64ff697
+  commit: d0c1064526cb1d2d745bc5497a0ae238b8a0833d
   patterns:
     - pdf_to.md
